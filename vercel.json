@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "name": "daeiamir",
+  "name": "mamadjan",
   "rewrites": [
-    { "source": "/daeiamir", "destination": "/daeiamir.html" },
+    { "source": "/mamadjan", "destination": "/mamadjan.html" },
     { "source": "/(.*)", "destination": "/api/index" }
   ],
   "trailingSlash": false
